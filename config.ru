@@ -1,2 +1,2 @@
-require File.expand_path(File.join(File.dirname(__FILE__), 'project'))
+require File.expand_path(File.join(File.dirname(__FILE__), 'vba'))
 run Sinatra::Application
