@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ACT Volunteer Brigades Association
+title: index
 ---
 ## Welcome to our website!
 
