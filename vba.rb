@@ -1,5 +1,9 @@
 require 'sinatra'
 
+configure :production do
+  require 'newrelic_rpm'
+end
+
 before do
   cache_control :public, :max_age => 86400
 end
