@@ -91,13 +91,14 @@ p, ol, ul {
 #header h2 {
 	text-transform: uppercase;
 }
-		
+
 /** MENU*/
 
 #menu1 {
 	float: left;
 	width: 190px;
 	margin: 0px auto;
+	margin-bottom: 20px;
 	text-transform: uppercase;
 	font-weight: bold;
 	font-size: 14px;
