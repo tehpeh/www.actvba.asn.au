@@ -1,6 +1,6 @@
 ---
 layout: default
-title: History
+title: "- History"
 ---
 
 ## Early Bushfire History in the A.C.T.
