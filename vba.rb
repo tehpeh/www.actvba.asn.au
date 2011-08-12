@@ -1,15 +1,19 @@
 require 'sinatra'
 
-configure :production do
-  require 'newrelic_rpm'
+configure do
+  set :public, File.join(File.dirname(__FILE__), '_site')
 end
 
-before do
-  cache_control :public, :max_age => 86400
+configure :production do
+  require 'newrelic_rpm'
+
+  before do
+    cache_control :public, :max_age => 86400
+  end
 end
 
 get '/' do
-  send_file File.join(settings.public, 'vba_home.html')
+  send_file File.join(settings.public, 'index.html')
 end
 
 not_found do
