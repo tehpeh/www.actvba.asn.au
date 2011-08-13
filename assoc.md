@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "- VBA Role"
+title: VBA Role
 ---
 
 ## The Australian Capital Territory Volunteer Bushfire Brigades Association

@@ -1,1 +1,2 @@
-exclude: [config, config.ru, Gemfile, Gemfile.lock, vba.rb, public]
+exclude: [config, config.ru, Gemfile, Gemfile.lock, vba.rb, public, Readme.md]
+future: false

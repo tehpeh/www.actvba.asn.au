@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "- Media"
+title: Media
 ---
 
 ## VBA Media Releases

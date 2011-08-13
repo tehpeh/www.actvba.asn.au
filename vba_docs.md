@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "- Documents"
+title: Documents
 ---
 
 ## The ACT Volunteer Brigades Association - AGM Minutes

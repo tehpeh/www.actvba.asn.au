@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "- Executive"
+title: Executive
 ---
 
 ## VBA Executive
@@ -11,7 +11,6 @@ title: "- Executive"
 >*Vice President:* Brian O'Connor - (Hall)<br />
 >*Hon Secretary:* Noel Teys - (Tharwa/Naas)<br />
 >*Hon Treasurer:* Noel Teys - (Tharwa/Naas)<br />
-
 
 
 **1990-1991**
@@ -76,7 +75,6 @@ title: "- Executive"
 >*Vice President:* Allan MacSween - (Southern)<br />
 >*Hon Secretary:* Kevin Jeffery - (Southern)<br />
 >*Hon Treasurer:* Allan Pricthard - (Hall)<br />
-
 
 
 **2001-2002**

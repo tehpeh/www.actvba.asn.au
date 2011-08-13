@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "- Bushfire Brigades"
+title: Bushfire Brigades
 ---
 
 ## VBA Member Brigades

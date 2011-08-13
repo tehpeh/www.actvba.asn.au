@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "- Volunteer Advocacy"
+title: Volunteer Advocacy
 ---
 
 ## Volunteer Advocacy
