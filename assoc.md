@@ -1,0 +1,46 @@
+---
+layout: default
+title: "- VBA Role"
+---
+
+## The Australian Capital Territory Volunteer Bushfire Brigades Association
+
+The role of the Association can be broken down into eight main areas :
+
+* Acts as a focal point for issues affecting all volunteer
+bushfire fighters in the A.C.T.(there are some 828 members on
+the various Brigade's books).
+
+* Speaks on behalf of all A.C.T. volunteer bushfire fighters.
+
+* Lobbies politicians, bureaucrats &amp; national/local
+organisations on issues relating to A.C.T. volunteer bushfire
+fighters.
+
+* Provides a forum for discussing improvements to fire management
+in the A.C.T.
+
+* Puts forward a joint and considered view to the Emergency
+Management Group and A.C.T. Government officials on equipment,
+training, planning and safety issues affecting A.C.T. volunteer
+bushfire fighters.
+
+* Publicises issues on behalf of A.C.T. volunteer bushfire
+fighters where and when necessary.
+
+* Organises public events (Field Days) to make the community more
+aware of the work done by volunteer bushfire fighters.
+
+* Avenue for transmission of practical suggestions from the people
+who actually put out a high percentage of the rural fires in the
+A.C.T.
+
+All volunteer bushfire fighters are encouraged to attend meetings
+and have a say, additionally the Chief Fire Control Officer has a
+standing invitation to attend the meetings. The Executive
+Committee, consisting of the Chairman, Secretary and Treasurer, and
+2 delegates from each member Brigade vote on issues raised at
+meetings.
+
+*Noel Teys* (Secretary ACT Volunteer Bushfire Brigade's
+Association) January 17 1995
