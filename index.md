@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 ## Welcome to our website!
 
 Welcome to the new ACT Volunteer Brigades Association website.
