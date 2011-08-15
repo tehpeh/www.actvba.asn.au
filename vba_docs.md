@@ -15,6 +15,8 @@ title: Documents
 
 [3rd May 2011 at Molonglo Shed](https://docs.google.com/document/pub?id=1FL1BmTlbfovPp4QbasS_xoE_SyGJez8XuhgIDzLoYZ8)
 
+[21st June 2011 at Rivers Shed](https://docs.google.com/document/pub?id=18Btq55773nRzGwCEE8nD36vJsZ6LI5xP5kOYaCCZcXI)
+
 ## The ACT Volunteer Brigades Association Constitution
 
 [Constitution 2010 V1](/VBA_Constitution_2010_V1.pdf)
