@@ -8,6 +8,8 @@ configure :production do
   require 'newrelic_rpm'
 
   before do
+    puts "Host: #{request.host}"
+    puts "URL: #{request.url}"
     cache_control :public, :max_age => 86400
   end
 end
