@@ -10,6 +10,9 @@ configure :production do
   before do
     puts "Host: #{request.host}"
     puts "URL: #{request.url}"
+    if request.host !=~ /^www/
+      puts "#{request.scheme}://www.#{request.host}#{request.path}"
+    end
     cache_control :public, :max_age => 86400
   end
 end
