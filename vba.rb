@@ -8,8 +8,8 @@ configure :production do
   require 'newrelic_rpm'
 
   before do
-    if request.host != /^www/
-      redirect "#{request.scheme}://www.#{request.host}#{request.path}"
+    if request.host != /^(?!www\.)/
+      redirect request.url.sub(request.host, "www.#{request.host}"), 301
     end
     cache_control :public, :max_age => 86400
   end
