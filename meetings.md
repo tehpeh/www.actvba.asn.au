@@ -15,7 +15,7 @@ title: Meeting Dates
 
 **19/7**
 
-**30/8**
+**30/8** moved to **23/8**
 
 **18/10** (AGM)
 

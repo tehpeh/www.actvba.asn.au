@@ -17,14 +17,12 @@ northwestern outskirts of Canberra.
 * **Jerrabomberra Volunteer Rural Fire Brigade** based in
 Symonston, covering the eastern outskirts of Canberra.
 
-* **Molonglo Volunteer Rural Fire Brigade** based outside of
+* **[Molonglo Volunteer Rural Fire Brigade](http://lukasland.com/molonglo/)** based outside of
 Higgins, covering the northwestern outskirts of Canberra.
 
-* **The Rivers Volunteer Bushire Brigade** based on the Cotter
-Road, covering the southwestern outskirts of Canberra.
+* **[The Rivers Volunteer Bushfire Brigade](http://riversbushfirebrigade.wordpress.com/)** based on the Cotter Road, covering the southwestern outskirts of Canberra.
 
-* **Southern Districts Volunteer Rural Fire Brigade** based at
-Tharwa, covering the Naas Vallay area.
+* **[Southern Districts Volunteer Rural Fire Brigade](http://southern.conder-act.com/)** based at Tharwa, covering the Naas Vallay area.
 
 * **Tidbinbilla Volunteer Rural Fire Brigade** based on "Oakey
 Creek" station, covering the Paddys Valley area.
