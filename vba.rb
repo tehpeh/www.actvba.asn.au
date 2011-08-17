@@ -8,8 +8,6 @@ configure :production do
   require 'newrelic_rpm'
 
   before do
-    puts "Host: #{request.host}"
-    puts "URL: #{request.url}"
     if request.host !=~ /^www/
       puts "#{request.scheme}://www.#{request.host}#{request.path}"
     end
