@@ -5,8 +5,6 @@ configure do
 end
 
 configure :production do
-  require 'newrelic_rpm'
-
   before do
     if request.host =~ /^(?!www\.)/
       redirect request.url.sub(request.host, "www.#{request.host}"), 301
