@@ -6,7 +6,7 @@ end
 
 configure :production do
   before do
-    if request.host =~ /^(?!www\.)/
+    if request.host =~ /^(?!www\.)/ && request.host != "vba.heroku.com"
       redirect request.url.sub(request.host, "www.#{request.host}"), 301
     end
     cache_control :public, :max_age => 86400
