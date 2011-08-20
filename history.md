@@ -23,7 +23,7 @@ had its inaugural meeting. The Chief Fire Controller was Mr M.
 R. Jacobs (Chief Forester). The Organization setup fire depots
 at MacDonald's Camp near Weetangera, Weavers' Property near
 Stromlo, Maxwells' Property at The Rivers, Gregorys' Property at
-Kambah and Horans' Property near the Yarralumla. The equipment
+Kambah and Horans' Property near Yarralumla. The equipment
 at these depots included fire Carts, beaters, rakes & axes,
 with horses for the fire carts being supplied by various Rural
 Lessees.
@@ -34,8 +34,8 @@ enquiry by a Bush Fire Committee appointed by the Minister of
 State for the Interior, the Honorable J. McEwen, M.P.. Among the
 recommendations was one favouring the appointment of a permanent
 Bush Fire Council to *organize the prevention and suppression
-of bushfires in the A.C.T.* , its inaugural meeting was held
-on the 18 August.
+of bushfires in the A.C.T.*, its inaugural meeting was held
+on the 18 August
 
 During the 1943-1944 Bushfire Season, Fire Protection Associations
 were formed under the aegis of the Bush Fire Council, the first
@@ -63,7 +63,7 @@ Brigade disbanding in the early 1970's. In 1972 the Kambah
 Bush Fire Brigade combined with Fairlight-The Rivers Bush Fire
 Brigade.
 
-After the "Black Tuesday" fire - February 13 1979 , Mr Jim
+After the "Black Tuesday" fire - February 13 1979, Mr Jim
 Rochford gathered together a group of local's and in October
 1979 the Hall Volunteer Bushfire Brigade was formed.
 
@@ -85,7 +85,7 @@ Over the years, two of Brigades disbanded (Fairlight-Rivers and
 Majura), and the Tharwa and Naas brigades merged to become
 Southern Districts VBB. On November 11 1986 the Jerrabomberra
 VBB officially formed, later in 1988 the old Williamsdale
-Brigade split into two , these became the Williamsdale Bush Fire
+Brigade split into two, these became the Williamsdale Bush Fire
 Brigade (N.S.W.) and the Guises Creek Volunteer Bushfire Brigade
 (A.C.T.). At a meeting on 31 August 1989, the Fairlight Bush
 Fire Brigade decided to confine its operations to New South
