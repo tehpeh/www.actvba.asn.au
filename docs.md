@@ -19,6 +19,8 @@ title: Documents
 
 [19th July 2011 at RFS HQ Fairbairne](https://docs.google.com/document/pub?id=1MTbCK6WpvnfnodVOaSQeO15g4hcDM8cbWxL_wEDFGEs)
 
+[23rd August 2011 at Jerra Shed](https://docs.google.com/document/pub?id=13ANn2rYrHcsYX0FE9lUPoMbLpIVmLE47ezp3fEIsq-M)
+
 ## The ACT Volunteer Brigades Association Constitution
 
 [Constitution 2010 V1](/VBA_Constitution_2010_V1.pdf)
