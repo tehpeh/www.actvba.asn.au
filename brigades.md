@@ -8,7 +8,7 @@ title: Bushfire Brigades
 * **Guises Creek Volunteer Rural Fire Brigade** based at Royalla,
 covering the Monaro Highway corridor.
 
-* **Gungahlin Volunteer Rural Fire Brigade** based at the Joint Emergency
+* **[Gungahlin Volunteer Rural Fire Brigade]( http://gungahlinruralfirebrigade.wordpress.com/)** based at the Joint Emergency
 Services Centre, Gungahlin covers the northeastern outskirts.
 
 * **Hall Volunteer Rural Fire Brigade** based in Hall, covering the
