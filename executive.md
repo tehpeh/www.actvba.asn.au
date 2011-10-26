@@ -155,3 +155,10 @@ title: Executive
 >*Vice President:* Melissa Riches - (Hall)<br />
 >*Hon Secretary:* Tim Preston - (Rivers)<br />
 >*Hon Treasurer:* Nicola Lewis - (Gungahlin)<br />
+
+**2011-2012**
+
+>*President:* Melissa Riches - (Hall)<br />
+>*Vice President:* Dave Wassall - (Guises Creek)<br />
+>*Hon Secretary:* Tim Preston - (Rivers)<br />
+>*Hon Treasurer:* Nicola Lewis - (Gungahlin)<br />

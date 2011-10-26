@@ -5,7 +5,7 @@ title: Documents
 
 ## The ACT Volunteer Brigades Association - AGM Minutes
 
-[5th October 2010 at RFS HQ Fairbairne](https://docs.google.com/document/pub?id=1lMaO23EpfoeQxMyj8CggbLg3tet-8THtKIG2UFRvykM)
+[5th October 2010 at RFS HQ Fairbairn](https://docs.google.com/document/pub?id=1lMaO23EpfoeQxMyj8CggbLg3tet-8THtKIG2UFRvykM)
 
 ## The ACT Volunteer Brigades Association - Meeting Minutes
 
@@ -17,7 +17,7 @@ title: Documents
 
 [21st June 2011 at Rivers Shed](https://docs.google.com/document/pub?id=18Btq55773nRzGwCEE8nD36vJsZ6LI5xP5kOYaCCZcXI)
 
-[19th July 2011 at RFS HQ Fairbairne](https://docs.google.com/document/pub?id=1MTbCK6WpvnfnodVOaSQeO15g4hcDM8cbWxL_wEDFGEs)
+[19th July 2011 at RFS HQ Fairbairn](https://docs.google.com/document/pub?id=1MTbCK6WpvnfnodVOaSQeO15g4hcDM8cbWxL_wEDFGEs)
 
 [23rd August 2011 at Jerra Shed](https://docs.google.com/document/pub?id=13ANn2rYrHcsYX0FE9lUPoMbLpIVmLE47ezp3fEIsq-M)
 
