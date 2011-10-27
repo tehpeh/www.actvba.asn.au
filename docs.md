@@ -7,6 +7,8 @@ title: Documents
 
 [5th October 2010 at RFS HQ Fairbairn](https://docs.google.com/document/pub?id=1lMaO23EpfoeQxMyj8CggbLg3tet-8THtKIG2UFRvykM)
 
+[18th October 2011 at RFS HQ Fairbairn](https://docs.google.com/document/pub?id=1sCdS19xNZKRVJxjcrJ4XvRZ806qwX2p2ZO3-3YqAf4E)
+
 ## The ACT Volunteer Brigades Association - Meeting Minutes
 
 [25th January 2011](https://docs.google.com/document/pub?id=1Dyb3p1xdKm9QdTpjqsc8OejKcmHeIT16gjT4sOe0rrM) (Special General Meeting)
