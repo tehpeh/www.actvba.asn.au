@@ -3,20 +3,20 @@ layout: default
 title: Meeting Dates
 ---
 
-## 2010 - 2011 Meeting Dates
+## 2012 Meeting Dates
 
-**25/1** (Special General Meeting)
+**17/1**
 
-**1/3**
+**28/2**
 
-**19/4**
+**10/4**
 
-**31/5**
+**22/5**
 
-**19/7**
+**3/7**
 
-**30/8** moved to **23/8**
+**14/8**
 
-**18/10** (AGM)
+**25/9**
 
-**29/11**
+**23/10** (AGM)
