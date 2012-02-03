@@ -23,6 +23,8 @@ title: Documents
 
 [23rd August 2011 at Jerra Shed](https://docs.google.com/document/pub?id=13ANn2rYrHcsYX0FE9lUPoMbLpIVmLE47ezp3fEIsq-M)
 
+[17th January 2012 at Hall Shed](https://docs.google.com/document/pub?id=12oQMFn_miO_nUMkrcWkYj_FMeDYpTEXjK4rewGHf4To)
+
 ## The ACT Volunteer Brigades Association Constitution
 
 [Constitution 2010 V1](/VBA_Constitution_2010_V1.pdf)
