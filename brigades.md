@@ -26,3 +26,7 @@ Higgins, covering the northwestern outskirts of Canberra.
 
 * **Tidbinbilla Volunteer Rural Fire Brigade** based on "Oakey
 Creek" station, covering the Paddys Valley area.
+
+## RFS
+
+* For information about the ACT RFS in general please see the [ACT Rural Fire Service Photography Blog](http://www.actrfs.blogspot.com/) or the [ESA website](http://esa.act.gov.au/actrfs/).
