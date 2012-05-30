@@ -1,8 +1,9 @@
 require 'sinatra'
 
 configure do
-  set :public, File.join(File.dirname(__FILE__), '_site')
+  set :public_folder, File.join(File.dirname(__FILE__), '_site')
 end
+set :static_cache_control, [:public, :max_age => 36000]
 
 configure :production do
   before do
