@@ -8,6 +8,7 @@ configure do
 end
 
 configure :production do
+  require 'newrelic_rpm'
   before do
     if request.host =~ /^(?!www\.)/ && request.host != "vba.heroku.com"
       redirect request.url.sub(request.host, "www.#{request.host}"), 301
