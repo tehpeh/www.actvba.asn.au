@@ -22,7 +22,7 @@ GEM
     liquid (2.3.0)
     maruku (0.6.0)
       syntax (>= 1.0.0)
-    newrelic_rpm (3.4.2.1)
+    newrelic_rpm (3.5.3.25)
     posix-spawn (0.3.6)
     rack (1.4.1)
     rack-protection (1.2.0)
