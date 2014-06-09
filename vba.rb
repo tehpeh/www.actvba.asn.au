@@ -10,7 +10,7 @@ end
 configure :production do
   require 'newrelic_rpm'
   before do
-    if request.host =~ /^(?!www\.)/ && request.host != "vba.heroku.com"
+    if request.host =~ /^(?!www\.)/ && request.host != "vba.herokuapp.com"
       redirect request.url.sub(request.host, "www.#{request.host}"), 301
     end
     cache_control :public, :max_age => 1 * DAY
